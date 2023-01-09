@@ -1,5 +1,5 @@
 # ML-project-4
-Insurance prediction
+Insurance classification problem
 
 Develop ML model to correctly identify properties that have a high chance of being successful. The motivation of the project is to help real estate make money but accurately suggesting properties that
 they should invest in. 
